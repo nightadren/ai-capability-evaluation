@@ -1,6 +1,6 @@
 # AI Capability Evaluation Research
 
-**Status:** Planning & Design Phase | Implementation Forthcoming
+**Status:** Planning & Design Phase Complete | Implementation Forthcoming
 
 ## What This Is
 
@@ -103,7 +103,7 @@ Bug bounty is an ideal test domain for capability evaluation because:
 1. **Ground truth exists** — Vulnerabilities either work or they don't
 2. **No partial credit** — False positives get you banned from platforms
 3. **Reasoning is traceable** — Attack chains have explicit logic
-4. **Commercial benchmarks exist** — XBOW ($20M funded, #1 on HackerOne), MAPTA (academic research with published metrics)
+4. **Commercial benchmarks exist** — XBOW ($75M+ funded, #1 on HackerOne), MAPTA (academic research with published metrics)
 5. **Stakes are real** — Not a toy problem
 
 ## Current Status
@@ -119,13 +119,13 @@ This is **research engineering**—the design and validation phase of building A
 
 ## About Me
 
-Cybersecurity graduate (B.S. Cybersecurity & Information Assurance, 2025) with certifications in offensive security (PenTest+), defensive operations (CySA+, SSCP), and foundational IT (Security+, Network+, A+).
+Cybersecurity graduate (B.S. Cybersecurity & Information Assurance, December 2025) with certifications in offensive security (PenTest+), defensive operations (CySA+, SSCP), and foundational IT (Security+, Network+, A+).
 
 Interested in AI capability evaluation and safety research—particularly the challenge of measuring genuine understanding as static benchmarks saturate.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/adrian-juarez-48a04a2ab/](https://linkedin.com)
+- LinkedIn: [linkedin.com/in/adrian-juarez-48a04a2ab](https://linkedin.com/in/adrian-juarez-48a04a2ab)
 
 ---
 
