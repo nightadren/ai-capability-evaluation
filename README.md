@@ -1,6 +1,6 @@
 # AI Capability Evaluation Research
 
-**Status:** Planning & Design Phase Complete | Implementation Forthcoming
+**Status:** Planning & Design Phase | Implementation Forthcoming
 
 ## What This Is
 
