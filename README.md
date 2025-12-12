@@ -1,6 +1,6 @@
 # AI Capability Evaluation Research
 
-**Status:** Planning & Design Phase Complete | Implementation Forthcoming
+**Status:** Planning & Design Phase | Implementation Forthcoming
 
 ## What This Is
 
@@ -119,15 +119,14 @@ This is **research engineering**—the design and validation phase of building A
 
 ## About Me
 
-Cybersecurity graduate (B.S. Cybersecurity & Information Assurance, December 2024) with certifications in offensive security (PenTest+), defensive operations (CySA+, SSCP), and foundational IT (Security+, Network+, A+).
+Cybersecurity graduate (B.S. Cybersecurity & Information Assurance, 2025) with certifications in offensive security (PenTest+), defensive operations (CySA+, SSCP), and foundational IT (Security+, Network+, A+).
 
 Interested in AI capability evaluation and safety research—particularly the challenge of measuring genuine understanding as static benchmarks saturate.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/adrian-juarez-48a04a2ab/](https://linkedin.com)
 
 ---
 
-*This repository documents independent research conducted October 2024 – Present.*
+*This repository documents independent research conducted November 2025 – Present.*
